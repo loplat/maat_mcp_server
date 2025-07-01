@@ -71,10 +71,6 @@ maat_mcp_server/
     └── util/           # 유틸리티 함수
 ```
 
-## 라이선스
-
-MIT License 
-
 ## claude_desktop_config 설정 방법
 ```
 "restaurants_finder": {
